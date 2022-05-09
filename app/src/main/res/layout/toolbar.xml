@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.AppBarLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:theme="@style/Theme.ExerciseProject.AppBarOverlay"
+    app:elevation="0dp">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorOnPrimary"
+        app:layout_scrollFlags="snap|scroll|enterAlways"
+        app:popupTheme="@style/Theme.ExerciseProject.PopupOverlay"
+        app:subtitleCentered="true"
+        app:titleCentered="true"
+        app:titleTextAppearance="@style/Theme.ExerciseProject.ToolbarTextStyle" />
+
+</com.google.android.material.appbar.AppBarLayout>

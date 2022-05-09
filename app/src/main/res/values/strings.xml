@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Exercise Project</string>
+    <string name="page_sign_up">Daftar Akun</string>
+    <string name="txt_forgot_my_password"><u>Forgot My Password</u></string>
+    <string name="txt_create_new_account"><u>Create New Account</u></string>
+    <string name="txt_konsultasi_dengan_dokter_jadi_lebih_mudah_amp_fleksibel">Konsultasi dengan dokter jadi lebih mudah &amp; fleksibel</string>
+    <string name="txt_btn_sign_in">Sign In</string>
+    <string name="txt_btn_get_started">Get Started</string>
+    <string name="txt_masuk_dan_mulai_berkonsultasi">Masuk dan mulai berkonsultasi</string>
+    <string name="txt_input_layout_email_address">Email Address</string>
+    <string name="txt_input_layout_password">Password</string>
+    <string name="txt_title">My Doctor</string>
+    <string name="txt_input_layout_pekerjaan">Pekerjaan</string>
+    <string name="txt_input_layout_full_name">Full Name</string>
+    <string name="txt_btn_continue">Continue</string>
+    <string name="btn_next">Next</string>
+    <string name="txt_menu_doctor">Doctor</string>
+    <string name="txt_menu_messages">Messages</string>
+    <string name="txt_menu_hospital">Hospital</string>
+    <string name="txt_send_to">Send To</string>
+    <string name="txt_messages">Messages</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_tambah_data">Tambah Data</string>
+    <string name="txt_not_found_data">Data tidak ditemukan!</string>
+    <string name="txt_found_data">Data sudah dibuat!</string>
+</resources>

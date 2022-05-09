@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rationale_ask">This app may not work correctly without the requested permissions.</string>
+    <string name="rationale_ask_again">
+        This app may not work correctly without the requested permissions.
+        Open the app settings screen to modify app permissions.
+    </string>
+    <string name="title_settings_dialog">Permissions Required</string>
+    <string name="txt_not_null">Tidak boleh null!</string>
+    <string name="txt_not_empty">Tidak boleh kosong!</string>
+    <string name="txt_not_email">Email tidak valid!</string>
+    <string name="txt_not_min_length">Password harus lebih dari 8 karakter!</string>
+    <string name="txt_not_min_length_3">Nama harus lebih dari 3 karakter!</string>
+    <string name="txt_not_lowercase_and_uppercase"><![CDATA[Harus mengandung setidaknya 1 karakter uppercase & lowercase!]]></string>
+</resources>
